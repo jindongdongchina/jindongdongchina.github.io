@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 个人笔记</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on 个人笔记</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0300</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EEE</title>
+      <link>/categories/eee/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0300</pubDate>
+      <guid>/categories/eee/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
