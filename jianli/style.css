@@ -122,10 +122,11 @@ footer {
 }
 
 /* 移动端适配 */
+/*
 @media (max-width: 600px) {
     body {
         font-size: 16px;
-    }
+    }*/
     nav a {
         display: inline-block;
         margin-bottom: 0.3rem;
