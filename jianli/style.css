@@ -10,16 +10,16 @@ html {
 body {
     margin: 0 auto;
     max-width: 72ch;
-    font-size: 18px;
-    line-height: 1.7;
+    font-size: 21px;
+    line-height: 1.8;
     color: #111;
     background: #fff;
     font-family:
-        "PingFang SC",
-        "Noto Sans CJK SC",
-        "Microsoft YaHei",
-        system-ui,
-        sans-serif;
+    "PingFang SC",
+    "Noto Sans CJK SC",
+    "Microsoft YaHei",
+    system-ui,
+    sans-serif;
 }
 
 /* 容器内边距 */
